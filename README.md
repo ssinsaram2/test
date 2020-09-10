@@ -1,9 +1,1 @@
-kimgeonwoo1234
-kimgeonwoo
-asdfasdfasdfadsf
-
-
-
-
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+파이썬을 공부하는 공간입니다.
